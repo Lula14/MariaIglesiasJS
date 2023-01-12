@@ -11,7 +11,7 @@ html {
 @media (min-width: 196px) {
 .body {
     
-    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("/img/Mascotas-comiendo.webp");
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("/ProyectoFinalJS/img/Mascotas-comiendo.webp");
    
     max-width: 100%;
     height: auto;
